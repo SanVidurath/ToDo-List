@@ -1,7 +1,7 @@
-# To-Do List
+# To-Do-List
 
 ## Overview
-A simple To-Do List
+A simple To-Do-List
 
 ## Technologies Used
 * HTML
